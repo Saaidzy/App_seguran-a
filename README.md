@@ -1,2 +1,10 @@
-# App_seguran-a
-Sistema de segurança simulado em C#. Detecta eventos suspeitos com base em probabilidade e ativa um alarme com envio de alerta. Possui comandos via console para simular eventos ou encerrar o sistema. Ideal para testes de lógica e automação de alertas.
+# 🛡️ Sistema de Segurança Simulado em C#
+
+Este projeto simula um sistema de segurança em C#, com ativação de alarme e envio de alerta ao detectar eventos suspeitos. A interação é feita via console, e os eventos são gerados de forma aleatória.
+
+## 🚨 Funcionalidades
+
+- Detecção simulada de eventos de segurança
+- Ativação e desativação do alarme
+- Simulação de envio de alerta (pode ser integrado com APIs reais)
+- Interface via terminal
